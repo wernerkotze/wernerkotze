@@ -38,6 +38,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wernerkotze&show_icons=true&locale=en&layout=compact" alt="wernerkotze" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wernerkotze&show_icons=true&locale=en" alt="wernerkotze" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wernerkotze&" alt="wernerkotze" /></p>
