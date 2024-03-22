@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/werner__ko" target="blank"><img src="https://img.shields.io/twitter/follow/werner__ko?logo=twitter&style=for-the-badge" alt="werner__ko" /></a> </p>
 
-- 🔭 I’m currently working on [hatch](thehatch.app)
+- 🔭 I’m currently working on [hatch](https://thehatchapp.io)
 
 - 🌱 I’m currently learning **React Native, AWS certifications**
 
