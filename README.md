@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on [topnot](topnot.co.za)
 
-- 🤝 I’m looking for help with [asst](topcompany.io)
+- 🤝 I’m looking for help with [asst](https://asstco.com/)
 
-- 👨‍💻 All of my projects are available at [wernerkotze.com](wernerkotze.com)
+- 👨‍💻 All of my projects are available at [wernerkotze.com](https://wernerkotze.com/)
 
 - 📝 I regularly write articles on [wernerkotze.com/blog](wernerkotze.com/blog)
 
