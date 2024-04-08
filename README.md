@@ -7,15 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/werner__ko" target="blank"><img src="https://img.shields.io/twitter/follow/werner__ko?logo=twitter&style=for-the-badge" alt="werner__ko" /></a> </p>
 
-- 🔭 I’m currently working on [hatch](https://thehatchapp.io)
+- 🔭 I’m currently working on [hatch](https://hatchapp.io){:target="_blank"}
 
-- 🌱 I’m currently learning **React Native, AWS certifications**
-
-- 👯 I’m looking to collaborate on [topnot](topnot.co.za)
+- 🌱 I’m currently learning **AWS certifications**
 
 - 🤝 I’m looking for help with [asst](https://asstco.com/)
 
-- 👨‍💻 All of my projects are available at [wernerkotze.com](https://wernerkotze.com/)
+- 👨‍💻 All of my projects are available at [wernerkotze.com/projects](https://wernerkotze.com){:target="_blank"}
 
 - 📝 I regularly write articles on [wernerkotze.com/blog](wernerkotze.com/blog)
 
@@ -23,12 +21,12 @@
 
 - 📫 How to reach me **wernerkotze.rsa@gmail.com**
 
-- 📄 Know about my experiences [wernerkotze.com/#resume](wernerkotze.com/#resume)
+- 📄 Know about my experiences [wernerkotze.com/resume](https://wernerkotze.com){:target="_blank"}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/werner__ko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="werner__ko" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/werner-kotze-23a49313a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/werner-kotze-23a49313a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/werner-kotze/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/werner-kotze-23a49313a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10475154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10475154" height="30" width="40" /></a>
 <a href="https://instagram.com/wernerkotze_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wernerkotze_" height="30" width="40" /></a>
 </p>
