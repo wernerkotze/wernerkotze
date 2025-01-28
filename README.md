@@ -3,8 +3,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wernerkotze&show_icons=true&locale=en&layout=compact" alt="wernerkotze" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wernerkotze&" alt="wernerkotze" /></p>
-
 - 🔭 I’m currently working on [hatch](https://hatchapp.io)
 
 - 🌱 I’m currently learning **AWS certifications**
