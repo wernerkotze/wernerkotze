@@ -3,19 +3,17 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=wernerkotze&show_icons=true&locale=en&layout=compact" alt="wernerkotze" /></p>
 
-- 🔭 I’m currently working on [hatch](https://hatchapp.io)
+- 🔭 I’m currently working on [hatch](https://hatch-308018.web.app/)
 
-- 🌱 I’m currently learning **AWS certifications**
-
-- 🤝 I’m looking for help with [asst](https://asstco.com/)
+- 🌱 I’m currently learning **CSPO, PMP**
 
 - 👨‍💻 All of my projects are available at [wernerkotze.com/projects](https://wernerkotze.com)
 
 - 📝 I regularly write articles on [wernerkotze.com/blog](wernerkotze.com/blog)
 
-- 💬 Ask me about **python, react, php, vue**
+- 💬 Ask me about **automation, chatbots, python, react, data visualization**
 
-- 📫 How to reach me **wernerkotze.rsa@gmail.com**
+- 📫 How to reach me **hi@wernerkotze.com**
 
 - 📄 Know about my experiences [wernerkotze.com/resume](https://wernerkotze.com)
 
